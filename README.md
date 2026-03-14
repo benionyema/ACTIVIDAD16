@@ -1,6 +1,6 @@
 # Actividad 16
 
-Alumno: Benedit Perez
+Alumno: Benedit Onyema Emose
 
 ## Descripción
 
@@ -10,10 +10,6 @@ En esta actividad se realizan tres prácticas en JavaScript:
 2. Calculadora de cambio de moneda usando una API
 3. Reserva de asientos de cine con almacenamiento local y conversión de moneda
 
-## Dificultades
+## Ejercicio 1
 
-Pendiente de completar.
-
-## Mejoras
-
-Pendiente de completar.
+He realizado el ejercicio 1.
