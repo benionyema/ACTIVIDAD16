@@ -13,3 +13,7 @@ En esta actividad se realizan tres prácticas en JavaScript:
 ## Ejercicio 1
 
 He realizado el ejercicio 1.
+
+## Ejercicio 2
+
+He realizado el ejercicio 2 con ciertas dificultades.
